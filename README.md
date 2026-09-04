@@ -21,4 +21,4 @@ npm run dev
 npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view locally.
+Open akashprabhu-portfolio.vercel.app to view the site.
