@@ -21,4 +21,4 @@ npm run dev
 npm run build
 ```
 
-Open akashprabhu-portfolio.vercel.app to view the site.
+Open [https://akashprabhu-portfolio.vercel.app] to view the site.
