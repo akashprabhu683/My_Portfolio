@@ -93,7 +93,9 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION,
+    google:
+      process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION ||
+      "de2jimseqk_FIEMEv6SGh2eC398ql4UkKW2Gc65v1k0",
   },
   formatDetection: {
     email: false,
