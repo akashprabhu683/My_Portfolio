@@ -61,7 +61,8 @@ export interface EducationItem {
   location: string;
 }
 
-export const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://akashprabhu.dev";
+export const siteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://akashprabhu-portfolio.vercel.app";
 
 export interface PortfolioData {
   name: string;
