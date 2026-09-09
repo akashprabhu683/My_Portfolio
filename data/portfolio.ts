@@ -86,7 +86,7 @@ export interface PortfolioData {
 }
 
 export const portfolioData: PortfolioData = {
-  name: "Akash Prabhu",
+  name: "Akash Prabhu P",
   professionalTitle: "Frontend Developer & UI Engineer",
   heroIntro:
     "I build clean, responsive web experiences and enjoy turning ideas into working products. Currently expanding from frontend development into backend systems, with a long-term interest in AI and machine learning.",
